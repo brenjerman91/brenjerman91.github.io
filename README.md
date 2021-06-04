@@ -17,10 +17,10 @@ Description: Set up technology and create a node that carries out square roots a
 links:
 
     Project 1:
-    (https://brenjerman91.github.io/Project-1/)
+    https://brenjerman91.github.io/Project-1/
 
     lab 01:
-    (https://brenjerman91.github.io/lab-01/)
+    https://brenjerman91.github.io/lab-01/
 
 
 Project 2
