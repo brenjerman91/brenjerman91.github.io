@@ -61,7 +61,7 @@ Project 4
 Description: Gets 3 variables and displays them in different orders. These are then displayed on a server that can be viewed on the web. 
 
 Lab 5
-Description: 
+Description: Practice with Postman 
 
 Lab 6
 Description: 
@@ -72,7 +72,7 @@ links:
     https://brenjerman91.github.io/Project-4/
     
     lab 05:
-    https://brenjerman91.github.io/lab-03/
+    https://brenjerman91.github.io/lab-05/
     
     lab 06:
     https://brenjerman91.github.io/lab-04/
