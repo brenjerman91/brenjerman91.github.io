@@ -20,7 +20,9 @@ links:
 
 
 Project 2
-Description: 
+Description: Created a random string, rearrange characrters in ascending order, more practice with staging and committing changes on git through VS code.
+
+
 
 Lab 2
 Description: 
