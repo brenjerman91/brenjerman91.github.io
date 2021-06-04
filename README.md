@@ -1,7 +1,11 @@
 # brenjerman91.github.io
 Main page for all CIT Projects 
 
+-A showcase of all the coding projects I have successfully completed through out my time as a student in Computer Information technology
+
+
 CIT 281 Spring 2021
+
 
 Project 1
 Description: Explore the uses of terminal when creating folders. Then create code that outputs a string of random letters with a length between 5 and 25
@@ -88,11 +92,12 @@ lab 8
 Description: Fetch info and display it on server
 
 links:
-   Project 6:
-   https://brenjerman91.github.io/Project-6/
+
+    Project 6:
+    https://brenjerman91.github.io/Project-6/
     
-   lab 07:
-   https://brenjerman91.github.io/lab-07/
+    lab 07:
+    https://brenjerman91.github.io/lab-07/
     
     lab 08
     https://brenjerman91.github.io/lab-08/
