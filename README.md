@@ -56,5 +56,25 @@ links:
     
     lab 04:
     https://brenjerman91.github.io/lab-04/
+
+Project 4
+Description: Gets 3 variables and displays them in different orders. These are then displayed on a server that can be viewed on the web. 
+
+Lab 5
+Description: 
+
+Lab 6
+Description: 
+
+links:
+
+    Project 4:
+    https://brenjerman91.github.io/Project-3/
+    
+    lab 05:
+    https://brenjerman91.github.io/lab-03/
+    
+    lab 06:
+    https://brenjerman91.github.io/lab-04/
    
 
