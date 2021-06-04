@@ -20,20 +20,26 @@ links:
 
 
 Project 2
-Description: Create a random string, rearrange characrters in ascending order, more practice with staging and committing changes on git through VS code.
+Description: 
 
-
+Lab 2
+Description: 
 links:
 
-    Project 1:
-    https://brenjerman91.github.io/Project-1/
-
-    lab 01:
-    https://brenjerman91.github.io/lab-01/
+    Project 2:
     
+    lab 02:
 
 
+Project 3
+Description: 
 
+Lab 3
+Description: 
+links:
 
-
+    Project 2:
+    
+    lab 02:
+   
 
