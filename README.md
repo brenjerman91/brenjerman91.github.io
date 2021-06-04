@@ -43,6 +43,9 @@ Description: Created a "coinage" code module that is capable of calculating the 
 Lab 3
 Description: Practice with exporting fucntions 
 
+Lab 4
+Description: Practice with creating servers 
+
 links:
 
     Project 3:
@@ -50,5 +53,8 @@ links:
     
     lab 03:
     https://brenjerman91.github.io/lab-03/
+    
+    lab 04:
+    https://brenjerman91.github.io/lab-04/
    
 
