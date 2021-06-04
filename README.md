@@ -83,6 +83,9 @@ Description: created shape classes that accept lenghts and then output the appro
 Lab 7 
 Description: Testing errors with by throwing them as well as creating custom errors
 
+lab 8
+Description: Fetch info and display it on server
+
 links:
 
     Project 6:
@@ -90,5 +93,8 @@ links:
     
     lab 07:
     https://brenjerman91.github.io/lab-07/
+    
+    lab 08
+    https://brenjerman91.github.io/lab-08/
    
 
