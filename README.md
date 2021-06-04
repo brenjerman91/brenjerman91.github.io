@@ -6,7 +6,7 @@ CIT 281 Spring 2021
 Project 1
 Description: Explore the uses of terminal when creating folders. Then create code that outputs a string of random letters with a length between 5 and 25
 
-lab 1
+Lab 1
 Description: Set up technology and create a node that carries out square roots and squares numbers
 
 
