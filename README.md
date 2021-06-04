@@ -40,7 +40,8 @@ Lab 3
 Description: 
 links:
 
-    Project 2:
+    Project 3:
+    https://brenjerman91.github.io/Project-3/
     
     lab 02:
    
