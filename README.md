@@ -26,7 +26,7 @@ Lab 2
 Description: 
 links:
 
-    Project 2:
+    Project 2: https://brenjerman91.github.io/Project-2/
     
     lab 02:
 
