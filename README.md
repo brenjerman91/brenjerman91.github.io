@@ -96,5 +96,8 @@ links:
     
     lab 08
     https://brenjerman91.github.io/lab-08/
+    
+    lab 09
+    https://brenjerman91.github.io/lab-09/
    
 
