@@ -2,7 +2,6 @@
 # brenjerman91.github.io
 Main page for all CIT Projects 
 
--A showcase of all the coding projects I have successfully completed through out my time as a student in Computer Information technology
 
 
 CIT 281 Spring 2021
