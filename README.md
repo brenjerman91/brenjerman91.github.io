@@ -25,7 +25,7 @@ Description: Created a random string, rearrange characrters in ascending order, 
 
 
 Lab 2
-Description: 
+Description: Practice with git repositories
 links:
 
     Project 2: 
@@ -41,12 +41,14 @@ Description: Created a "coinage" code module that is capable of calculating the 
 
 
 Lab 3
-Description: 
+Description: Practice with exporting fucntions 
+
 links:
 
     Project 3:
     https://brenjerman91.github.io/Project-3/
     
-    lab 02:
+    lab 03:
+    https://brenjerman91.github.io/lab-03/
    
 
