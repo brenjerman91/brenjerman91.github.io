@@ -64,7 +64,7 @@ Lab 5
 Description: Practice with Postman 
 
 Lab 6
-Description: 
+Description: Create a class that acts as a library for books 
 
 links:
 
@@ -75,6 +75,20 @@ links:
     https://brenjerman91.github.io/lab-05/
     
     lab 06:
-    https://brenjerman91.github.io/lab-04/
+    https://brenjerman91.github.io/lab-06/
+
+Project 6
+Description: created shape classes that accept lenghts and then output the appropriate numbers based on perimeter and area
+
+Lab 7 
+Description: Testing errors with by throwing them as well as creating custom errors
+
+links:
+
+    Project 6:
+    https://brenjerman91.github.io/Project-6/
+    
+    lab 07:
+    https://brenjerman91.github.io/lab-05/
    
 
