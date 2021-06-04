@@ -26,6 +26,7 @@ Description: Created a random string, rearrange characrters in ascending order, 
 
 Lab 2
 Description: Practice with git repositories
+
 links:
 
     Project 2: 
@@ -87,12 +88,11 @@ lab 8
 Description: Fetch info and display it on server
 
 links:
-
-    Project 6:
-    https://brenjerman91.github.io/Project-6/
+   Project 6:
+   https://brenjerman91.github.io/Project-6/
     
-    lab 07:
-    https://brenjerman91.github.io/lab-07/
+   lab 07:
+   https://brenjerman91.github.io/lab-07/
     
     lab 08
     https://brenjerman91.github.io/lab-08/
