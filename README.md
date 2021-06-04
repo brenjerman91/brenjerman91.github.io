@@ -89,6 +89,6 @@ links:
     https://brenjerman91.github.io/Project-6/
     
     lab 07:
-    https://brenjerman91.github.io/lab-05/
+    https://brenjerman91.github.io/lab-07/
    
 
